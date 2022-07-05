@@ -1,5 +1,5 @@
 ### Hi, I'm Abhinandan Adhikari 👋
-<h3>Currently, I'm exploring Computer Vision and Full-Stack web development.</h3>
+<h3>Currently, I'm exploring Computer Vision and Full-Stack web development :man_technologist: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhinandanAdhikari&label=Profile%20views&color=0e75b6&style=flat" alt="AbhinandanAdhikari" /> </p>
 <!--
